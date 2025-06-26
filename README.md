@@ -1,7 +1,6 @@
 # Loan Default Risk Analytics & AI-Powered Chatbot using RAG
 
 > An end-to-end predictive analytics solution for assessing loan default risk, complete with exploratory data analysis, machine learning models, an interactive Tableau dashboard, and a Retrieval-Augmented Generation (RAG) based chatbot assistant.  
-> Developed for **BUS5PR1 – Predictive Analytics**, Semester 1, Master of Business Analytics, La Trobe University (2025).
 
 ---
 
