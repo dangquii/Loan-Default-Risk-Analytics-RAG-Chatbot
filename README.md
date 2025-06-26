@@ -2,6 +2,7 @@
 
 > An end-to-end predictive analytics solution for assessing loan default risk, complete with exploratory data analysis, machine learning models, an interactive Tableau dashboard, and a Retrieval-Augmented Generation (RAG) based chatbot assistant.  
 
+![Architecture Diagram](reports/project_architecture_diagram.png)
 ---
 
 ## Project Purpose
