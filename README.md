@@ -1,6 +1,6 @@
 # Loan Default Risk Analytics & AI-Powered Chatbot using RAG
 
-> An end-to-end predictive analytics solution for assessing loan default risk, complete with exploratory data analysis, machine learning models, an interactive Tableau dashboard, and a Retrieval-Augmented Generation (RAG) based chatbot assistant.  
+> An end-to-end predictive analytics solution for assessing loan default risk, complete with exploratory data analysis, machine learning models, an interactive Tableau dashboard, and a Retrieval-Augmented Generation (RAG) based chatbot assistant.
 
 ![Architecture Diagram](reports/project_architecture_diagram.png)
 ---
@@ -81,7 +81,6 @@ This project features an interactive chatbot built using **LangChain** and **Ope
 - "What are the top predictors of default?"
 - "Summarise the EDA process."
 - "Explain the difference in model accuracies."
-  
 ![Chatbot](reports/chatbot1.png)
 
 ---
@@ -95,6 +94,7 @@ The Tableau dashboard allows stakeholders to:
 - Understand key risk indicators visually  
 
 📂 Open dashboard/loan_default_dashboard_tableau.twb in **Tableau Desktop** to explore.
+![TableauDashboard](reports/dashboard_twb.png)
 
 ## Model Evaluation
 
