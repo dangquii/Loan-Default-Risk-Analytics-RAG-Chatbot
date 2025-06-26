@@ -81,6 +81,8 @@ This project features an interactive chatbot built using **LangChain** and **Ope
 - "What are the top predictors of default?"
 - "Summarise the EDA process."
 - "Explain the difference in model accuracies."
+  
+![Chatbot](reports/chatbot1.png)
 
 ---
 
