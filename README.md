@@ -57,7 +57,7 @@ Loan-Default-Risk-Analytics-RAG-Chatbot/
 
 ## How to Use This Project
 
-### nstall Python Dependencies
+### Install Python Dependencies
 bash
 pip install pandas numpy matplotlib seaborn scikit-learn xgboost gradio langchain openai
 
